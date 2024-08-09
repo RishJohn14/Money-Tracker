@@ -16,6 +16,11 @@ h1 {
   color:#fff;
   margin: 0;
   margin-top: 100px;
+  font-size: 2.5rem;
+}
+
+h1 span{
+  font-size: 1.5rem;
 }
 
 form {
@@ -52,7 +57,7 @@ form button {
 }
 
 div.transactions {
-  margin-top: 100px;
+  margin-top: 80px;
 }
 
 div.transaction {
